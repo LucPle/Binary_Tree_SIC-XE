@@ -2,6 +2,7 @@
 
 ## Objective
 Implement a binary tree data structure capable of holding 15 nodes and perform operations like `INPUT, LIST, DELETE, FIND`.
+![캡처](https://github.com/LucPle/Binary_Tree_SIC-XE/assets/78635277/3e4ebaaf-08a6-4eb2-81ea-84d17c04659e)
 
 ## Binary Tree Definition
 A binary tree named TREE was defined using the RESB directive, reserving 40 spaces, starting from index 1 to 15. The root was set at index 1 for easier traversal.
@@ -34,7 +35,7 @@ java -jar out/make/sictools.jar Binary_Tree.asm
 
 ### Sample Input/Output
 - INPUT: INPUT A
-- LIST: LIST (postorder traversal output)
-- DELETE: DELLETE A
-- FIND: FIND A
+- LIST: LIST (display postorder traversal output)
+- DELETE: DELLETE A 
+- FIND: FIND A (display inorder traversal output)
 
