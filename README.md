@@ -33,9 +33,9 @@ A binary tree named TREE was defined using the RESB directive, reserving 40 spac
 java -jar out/make/sictools.jar Binary_Tree.asm
 ```
 
-### Sample Input/Output
+### Sample Input / Output
 - INPUT: INPUT A
-- LIST: LIST (display postorder traversal output)
+- LIST: LIST / display postorder traversal output
 - DELETE: DELLETE A 
-- FIND: FIND A (display inorder traversal output)
+- FIND: FIND A / display inorder traversal output
 
